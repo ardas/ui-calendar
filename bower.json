@@ -18,7 +18,7 @@
   "dependencies": {
     "angular": "1.3.15",
     "jquery": "2.x",
-    "fullcalendar": "2.3.1",
+    "fullcalendar": "ardas/fullcalendar#master",
     "moment": "2.*"
   },
   "devDependencies": {
